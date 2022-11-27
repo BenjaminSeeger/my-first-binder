@@ -2,3 +2,9 @@
 - This is my first repository to launch a binder.
 - The repository will later contain the Task 2 with the MNIST dataset.
 - Link to the binder: https://mybinder.org/v2/gh/BenjaminSeeger/my-first-binder/HEAD
+
+# Direct-Link to the binder
+No the nicer way to get to the binder:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BenjaminSeeger/my-first-binder/HEAD)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/BenjaminSeeger/my-first-binder/HEAD
